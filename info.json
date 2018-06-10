@@ -1,0 +1,6 @@
+{
+  "name": "Readme Grabber Extension",
+  "author": "Adrian",
+  "version": "0.1.0",
+  "description": "Extension will attempt to grab readme files upon mod installation"
+}
